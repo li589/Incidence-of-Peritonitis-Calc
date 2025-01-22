@@ -1,2 +1,2 @@
 # Incidence-of-Peritonitis-Calc
-Incidence of Peritonitis Calc
+Calculate Incidence of Peritonitis
